@@ -1,4 +1,4 @@
-# Image-Recognition-Algorithm
+# Image Recognition Algorithm
  I built a logistic regression classifier to recognize cats (meow!).
  By the end of this notebook, photos could be classified as cat/not cat (meow?).  
  Let's see if sphinx is recognized as a cat or not (iykyk)
